@@ -1,4 +1,4 @@
-Full Implementation of a simple Rate Limiter with the following features:
+## Full Implementation of a simple Rate Limiter with the following features:
 1. Token Bucket Algorithm
 2. Distributed System
 3. Dynamic Configuration
